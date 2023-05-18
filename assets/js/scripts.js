@@ -1,7 +1,7 @@
 AOS.init();
 
 $('.counter').countUp({
-    'time': 1000,
+    'time': 2000,
     'delay': 20
 });
 
