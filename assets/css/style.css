@@ -27,7 +27,7 @@ li.nav-item{
 }
 
 .rounded{
-    border-radius: 16px !important;
+    border-radius: 18px !important;
 }
 
 .nav-link{
@@ -38,15 +38,15 @@ li.nav-item{
 }
 
 .nav-link.active{
-    background-color: #f8f9fa;
+    background-color: #F5F5F5;
 }
 
 .nav-link:hover{
-    background-color: #f8f9fa;
+    background-color: #F5F5F5;
 }
 
 .text-primary{
-    color: #427BFF !important;
+    color: #2F89FC !important;
 }
 
 .text-danger{
@@ -60,6 +60,21 @@ li.nav-item{
 }
 
 .nav-link.contact:hover{
-    background-color: #f8f9fa;
-    color: #111 !important;
+    background-color: #40514E;
+}
+
+.bg-primary{
+    background-color: #2F89FC !important;
+}
+
+.bg-dark2{
+    background-color: #40514E !important;
+}
+
+.btn-social{
+    border: none !important;
+}
+
+.btn-social:hover{
+    background-color: #C44A4A !important;
 }
