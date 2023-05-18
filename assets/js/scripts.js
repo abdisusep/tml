@@ -1,8 +1,8 @@
 AOS.init();
 
 $('.counter').countUp({
-    'time': 2000,
-    'delay': 20
+    'time': 4000,
+    'delay': 10
 });
 
 $('.owl-carousel').owlCarousel({
