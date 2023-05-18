@@ -78,3 +78,23 @@ li.nav-item{
 .btn-social:hover{
     background-color: #C44A4A !important;
 }
+
+.rounded-bottom-left{
+    border-bottom-left-radius: 18px;
+}
+
+.rounded-bottom-right{
+    border-bottom-right-radius: 18px;
+}
+
+.rounded-top-left{
+    border-top-left-radius: 18px;
+}
+
+.rounded-top-right{
+    border-top-right-radius: 18px;
+}
+
+.bg-danger{
+    background-color: #C44A4A !important;
+}
