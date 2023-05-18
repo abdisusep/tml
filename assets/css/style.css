@@ -1,5 +1,6 @@
 *{
-    font-family: 'Open Sans', sans-serif;
+    /* font-family: 'Open Sans', sans-serif; */
+    font-family: 'Nunito', sans-serif;
 }
 
 .autohide{
@@ -67,6 +68,10 @@ li.nav-item{
     background-color: #2F89FC !important;
 }
 
+.btn-primary{
+    background-color: #2F89FC !important;
+}
+
 .bg-dark2{
     background-color: #40514E !important;
 }
@@ -76,7 +81,7 @@ li.nav-item{
 }
 
 .btn-social:hover{
-    background-color: #C44A4A !important;
+    background-color: #40514E !important;
 }
 
 .rounded-bottom-left{
